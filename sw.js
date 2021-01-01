@@ -7,7 +7,8 @@ const staticAssets = [
   './index.html',
   './styles.css',
   './index.js',
-  './sw.js'
+  './sw.js',
+  './swiped-events.js'
 ];
 
 self.addEventListener('install', async e => {
