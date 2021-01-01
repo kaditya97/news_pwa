@@ -1,11 +1,13 @@
-const cacheName = 'news-v1';
+const cacheName = 'kaditya97';
 const staticAssets = [
   './',
+  './manifest.webmanifest',
+  './images/icon-192x192.png',
+  './images/icon-512x512.png',
   './index.html',
   './styles.css',
   './index.js',
-  './newsApi.js',
-  './news-article.js'
+  './sw.js'
 ];
 
 self.addEventListener('install', async e => {

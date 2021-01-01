@@ -1,10 +1,10 @@
 {
-  "name": "Bad News",
-  "short_name": "News",
+  "name": "Kaditya97",
+  "short_name": "kaditya97",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#fff",
-  "description": "A news app.",
+  "description": "pwa test",
   "icons": [
     {
       "src": "images/icon-512x512.png",
