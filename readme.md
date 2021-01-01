@@ -1,1 +1,1 @@
-Demo PWA app: https://kaditya97.github.io/pwa_test/
+Demo PWA app: https://kaditya97.github.io/snake_pwa_app/
